@@ -1,0 +1,20 @@
+{
+  "name": "cloudping.live",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "@vue/compiler-sfc": "^3.4.19",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^7.0.39",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.4"
+  }
+}
